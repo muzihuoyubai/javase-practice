@@ -30,15 +30,3 @@ static void sort(int arr[]) {
 [0]=13 [1]=26 [2]=-1 [3]=4 [4]=54
 [5]=26 ....
 ```
-
-
-## 练习提交路径
-请将练习题答案代码记录在本文件的"练习答案"中  
-如果在编写代码中遇到了问题，请将问题和解决方式以markdown格式整理下来，记录在本文件中  
-将文件提交到指定路径下$GIT/ProcessOriented/Structure/practice.md  
-练习代码提交到$GIT/ProcessOriented/Structure/StructureAns.java  
-
-## 练习答案
-
-
-## 遭遇到的问题
